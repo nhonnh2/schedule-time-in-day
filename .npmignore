@@ -1,0 +1,4 @@
+## node modules folder
+node_modules
+## git repository related files
+.git
